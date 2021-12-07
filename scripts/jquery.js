@@ -1,4 +1,2 @@
-$(function(){
-    $("#getStarted1").hide();
-
-});
+console.log('massao');
+$('h1').show()
